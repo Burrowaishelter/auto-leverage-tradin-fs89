@@ -1,4 +1,4 @@
-# 
+# advanced Trading Bot for auto-leverage trading bot | webhook-support & grid-trading offers the most advanced auto-leverage trading bot, with webhook-support and grid-trading.
 
 
 
